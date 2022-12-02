@@ -1,6 +1,6 @@
 Bug_report
  Main part
-   ID -number",
+   ID -number in Youth bug-tracking system,
    Summary (Title) - Short text description jf the bug,
    STR -Steps to reproduce the bug,
    ER - Estimated result of the test,
@@ -14,3 +14,4 @@ Bug_report
    
  Reporter name - Your own,
  Status - SDLS status Opened/In Progress/Fixed or Ready for check/Reopened/Closed/Deffered/Rejected
+
