@@ -1,0 +1,16 @@
+Bug_report
+ Main part
+   ID -number",
+   Summary (Title) - Short text description jf the bug,
+   STR -Steps to reproduce the bug,
+   ER - Estimated result of the test,
+   AR - Actual result of the test,
+   Severity - The degree of influence a defect has on the product's operation blocker/crititical/major/minor/trivial,
+   
+  Additional part
+   Priority - The order in which the defect should be fixed ASAP/high/medium/low,
+   Environment - Conditions Device Type/OS/Browser/Software version/Connection Strength/Screen size/Zoom level/Pixel ratio etc,
+   Visual Proof -Screenshots, videos, text, logs of Bug,
+   
+ Reporter name - Your own,
+ Status - SDLS status Opened/In Progress/Fixed or Ready for check/Reopened/Closed/Deffered/Rejected
