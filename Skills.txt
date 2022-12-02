@@ -1,0 +1,11 @@
+Skills:
+1.Theory of testing.
+2.Basic JavaScript.
+3.Client-server architecture.
+4.HTTP request methods and responce codes.
+5.Structures JSON and XML.
+6.DevTools of web browsers.
+7.Mobile testing.
+8.Command line (Terminal).
+9.SQL Basic.
+10.Scrum development methodology.
