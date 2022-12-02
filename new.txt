@@ -1,0 +1,6 @@
+vim new.txt
+insert
+Name - Yuliia Trubina,
+Age - 44,
+Pets - none,
+Salary - 2000.
